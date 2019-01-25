@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/eclipse/My_Project/Jar files/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/My_Project/Jar files/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/My_Project/Jar files/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/My_Project/Jar files/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/My_Project/Jar files/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/My_Project/Jar files/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/My_Project/Jar files/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/plugins/org.testng_6.14.2.r201802161450.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
